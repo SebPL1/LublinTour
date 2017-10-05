@@ -1,0 +1,105 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Lublin Tour</string>
+    <string name="welcome">Choose the best location to see in the city of Lublin...</string>
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_events">Events</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_food">Eat&amp;Rest</string>
+
+    <string name="category_historical_places">Historic places</string>
+
+    <string name="category_shopping">Malls</string>
+
+    <string name="color_white">white</string>
+    <string name="zamek_name">Zamek Lubelski</string>
+    <!-- Vocabulary word for the number one [CHAR LIMIT=20] -->
+    <string name="zamek_adres">Zamkowa 9, 20-001 Lublin</string>
+    <string name="zamek_location">geo:51.2501626,22.5719228?q=Zamek Lubelski</string>
+
+    <string name="litewski_name">Plac Litewski</string>
+    <!-- Vocabulary word for the number one [CHAR LIMIT=20] -->
+    <string name="litewski_adres">Plac Litewski, 20-001 Lublin</string>
+    <string name="litewski_location">geo:51.2490264,22.5575616,17?q=Plac Litewski</string>
+
+    <string name="katedra_name">Archikatedra</string>
+    <!-- Vocabulary word for the number one [CHAR LIMIT=20] -->
+    <string name="katedra_adres">Królewska 10, 20-001 Lublin</string>
+    <string name="katedra_location">geo:51.2467533,22.566081?q=Archikatedra św. Jana Chrzciciela i św. Jana Ewangelisty</string>
+
+    <string name="fara_name">Plac Po Farze</string>
+    <!-- Vocabulary word for the number one [CHAR LIMIT=20] -->
+    <string name="fara_adres">Plac Po Farze, 20-001 Lublin</string>
+    <string name="fara_location">geo:51.2476043,22.5668649,17.14?q=Plac Po Farze</string>
+
+    <string name="krakowska_name">Plac Po Farze</string>
+    <!-- Vocabulary word for the number one [CHAR LIMIT=20] -->
+    <string name="krakowska_adres">Bramowa 2, 20-400 Lublin</string>
+    <string name="krakowska_location">geo:51.2475638,22.5642285,17?q=Brama Krakowska</string>
+
+    <string name="majdanek_name">Niemiecki obóz zagłady - Majdanek</string>
+    <string name="majdanek_adres">Droga M. Majdanka 67, 20-325 Lublin</string>
+    <string name="majdanek_location">geo:51.2252964,22.6039953,17?q=Państwowe Muzeum na Majdanku</string>
+
+    <string name="kaplica_name">Kaplica Świętej Trójcy</string>
+    <string name="kaplica_adres">Zamkowa 9, 20-117 Lublin</string>
+    <string name="kaplica_location">geo:51.250315,22.5709534,17?q=kaplica sw trojcy lublin</string>
+
+    <string name="baszta_name">Donżon (baszta zamkowa)</string>
+    <string name="baszta_adres">Zamkowa 9, 20-400 Lublin</string>
+    <string name="baszta_location">geo:51.2503528,22.5702089,17?q=Baszta Zamkowa (Donżon) Lublin</string>
+
+    <string name="cerkiew_name">Cerkiew Greckokatolicka Narodzenia NMP</string>
+    <string name="cerkiew_adres">aleja Warszawska, 20-400 Lublin</string>
+    <string name="cerkiew_location">geo:51.2636223,22.5089884,13?q=Cerkiew Greckokatolicka Narodzenia Najświętszej Maryi Panny Lublin</string>
+
+    <string name="stol_name">Stół i Wół</string>
+    <string name="stol_adres">Bramowa 2, 20-111 Lublin</string>
+    <string name="stol_location">geo:51.2477376,22.5648841,16.31?q=Stół i Wół, Bramowa, Lublin</string>
+
+    <string name="sielsko_name">Sielsko Anielsko</string>
+    <string name="sielsko_adres">Rynek 17, 20-111 Lublin</string>
+    <string name="sielsko_location">geo:51.247708,22.5643804,17?q=Sielsko Anielsko, Lublin</string>
+
+    <string name="sexy_name">Sexy Duck</string>
+    <string name="sexy_adres">Zielona 22, 20-080 Lublin</string>
+    <string name="sexy_location">geo:51.247708,22.5643804,17?q=Sexy Duck, Lublin</string>
+
+    <string name="magia_name">Magia</string>
+    <string name="magia_adres">Grodzka 2, 20-114 Lublin</string>
+    <string name="magia_location">geo:51.248333,22.5657103,17?q=Restauracja Magia w Lublinie</string>
+
+    <string name="czarcia_name">Czarcia Lapa</string>
+    <string name="czarcia_adres">Rynek 19, 20-111 Lublin</string>
+    <string name="czarcia_location">geo:51.2478099,22.5650625,17?q=Czarcia Łapa, Lublin</string>
+
+    <string name="tarasy_name">Tarasy Zamkowe</string>
+    <string name="tarasy_adres">aleja Unii Lubelskiej 2, 20-108 Lublin</string>
+    <string name="tarasy_location">geo:51.2496137,22.5741009,17?q=Tarasy Zamkowe, Lublin</string>
+
+    <string name="plaza_name">CHR Plaza</string>
+    <string name="plaza_adres">Lipowa 13, 20-001 Lublin</string>
+    <string name="plaza_location">geo:51.2450389,22.5486777,17?q=Centrum Handlowo – Rozrywkowe Lublin Plaza, Lublin</string>
+
+    <string name="olimp_name">Galeria Olimp</string>
+    <string name="olimp_adres">Aleja Spółdzielczości Pracy 34, 20-147 Lublin</string>
+    <string name="olimp_location">geo:51.2666126,22.5687505,17?q=Galeria Olimp, Lublin</string>
+
+    <string name="sztuk_name">Carnaval Sztuk-Mistrzów</string>
+    <string name="sztuk_date">July 2017, more info...</string>
+    <string name="sztuk_web">http://sztukmistrze.eu</string>
+
+    <string name="juw_name">Juwenalia Lublin</string>
+    <string name="juw_date">May 2017, more info...</string>
+    <string name="juw_web">https://pl-pl.facebook.com/juwenalialublin/?ref=page_internal</string>
+
+    <string name="stud_name">24. Studenckie Konfrontacje Filmowe</string>
+    <string name="stud_date">March 2017, more info...</string>
+    <string name="stud_web">http://lublin.eu/kultura/wydarzenia/,1509,g.html</string>
+
+    <string name="mov_name">"Miasto movie"</string>
+    <string name="mov_date">Check details, more info...</string>
+    <string name="mov_web">http://lublin.eu/kultura/wydarzenia/,987,g.html</string>
+</resources>
+
